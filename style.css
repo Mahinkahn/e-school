@@ -1,0 +1,89 @@
+body{
+    font-family: 'Dongle', sans-serif;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: 3rem;
+    padding-left: .4rem;
+    font-size: 20px;
+    font-family: fantasy;
+   
+}
+
+.navbar-brand img{
+    width: 35%;
+    padding-top: 4%;
+}
+
+.color{
+    background-color: #f0fff0;
+    width: 1900px;
+    height: 800px;
+    left: 0px;
+    top: 0px;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #21b573 0%, #21b573 100%);
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    padding: 5px 40px;
+    font-size: 35px;
+    margin-top: 5%;
+    
+}
+
+.cat1 img{
+    width: 35%;
+}
+
+.cat2 img{
+    width: 37%;
+}
+
+
+.cat1{
+    background-color: #f8fffb;
+    width: 320px;
+    height: 320px;
+    text-align: center;
+    left: 200px;
+    top: 618px;
+    padding-top: 15%;
+    margin-right: 10%;
+}
+
+.cat2{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 12px 12px 25px lightgray;
+    width: 320px;
+    height: 320px;
+    text-align: center;
+    left: 200px;
+    top: 618px;
+    padding-top: 15%;
+    margin-right: 10%;
+}
+
+.card-title{
+    font-family: sans-serif;
+    color: #413960;
+}
+
+.card-text{
+    font-family: sans-serif; 
+    color: #585859;
+}
+
+.Buy{
+    background-image: linear-gradient(to bottom, #21b573 0%, #21b573 100%);
+    color: #fff;
+    border: none;
+    border-radius: 40px;
+    padding: 1px 35px;
+    font-size: 30px;
+    margin-top: 5%;
+}
+
