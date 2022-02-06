@@ -87,3 +87,60 @@ body{
     margin-top: 5%;
 }
 
+.car1{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 40px 40px 70px lightgray;
+    width: 410px;
+    height: 590px;
+}
+
+.fas{
+    color: #585859;
+    margin-top: 10px;
+    font-size: 22px;
+    
+}
+
+.fa-user-friends{
+    font-size: 22px;
+    margin-left: 25px;
+    
+}
+
+.card-footer{
+    background-color: white;
+    border: none;
+    margin-bottom: 5%;
+}
+
+.col img{
+    width: 95%;
+    margin-left: 3%;
+    margin-top: 8%;
+}
+
+.style{
+    left: 679.219px;
+    top: 2330.8px;
+    font-size: 22px;
+    font-family: sans-serif;
+       
+}
+
+.bg-color{
+    background-color: black;
+    width: 1900px;
+    height: 430px;
+}
+
+.top1{
+    margin-top: 5%;
+}
+
+.container h4{
+    color: #79777e;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
