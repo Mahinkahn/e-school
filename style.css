@@ -38,10 +38,6 @@ body{
     width: 35%;
 }
 
-.cat2 img{
-    width: 37%;
-}
-
 
 .cat1{
     background-color: #f8fffb;
@@ -52,9 +48,10 @@ body{
     top: 618px;
     padding-top: 15%;
     margin-right: 10%;
+    margin: 10px;
 }
 
-.cat2{
+.cat1:hover{
     border: none;
     border-radius: 10px;
     box-shadow: 12px 12px 25px lightgray;
@@ -65,6 +62,7 @@ body{
     top: 618px;
     padding-top: 15%;
     margin-right: 10%;
+    background-color: #ffffff;
 }
 
 .card-title{
@@ -88,7 +86,7 @@ body{
 }
 
 .car1{
-    border: none;
+    border: 10px solid #fff;
     border-radius: 20px;
     box-shadow: 40px 40px 70px lightgray;
     width: 410px;
@@ -120,22 +118,28 @@ body{
     margin-top: 8%;
 }
 
-.style{
+.style {
     left: 679.219px;
     top: 2330.8px;
-    font-size: 22px;
-    font-family: sans-serif;
-       
+    font-size: 29.289px;
+    font-family:unset;
+    transform: scaleX(0.9999999);
+    position: relative;
+    left: -30px;
+    top: auto;     
 }
 
 .bg-color{
-    background-color: black;
+    background-color: #282531;
     width: 1900px;
-    height: 430px;
+    height: 450px;
 }
 
 .top1{
-    margin-top: 5%;
+    position: relative;
+    left: 100px;
+    top: 55px;
+    margin: 30px;
 }
 
 .container h4{
@@ -143,4 +147,6 @@ body{
     font-family: sans-serif;
     font-size: 20px;
 }
+
+
 
